@@ -35,7 +35,7 @@ public class Demo {
 		paymentChain.execute("֧��У�");*/
 		
 		List<Integer> list = new ArrayList<>();
-		list.add(1);
+		list.add(2);
 		list.add(4);
 		Integer num = 4;
 		System.out.println(list.contains(num));
